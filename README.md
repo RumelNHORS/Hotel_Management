@@ -1,8 +1,8 @@
-# Homifice Hotel Management System
+# Hotel Management System
 
 ## Overview
 
-As a solo developer, inspired by the challenge of manual operations & liitations of our home-turned-mini-guest-house, I envisioned and built Homifice – a hotel management app. Homifice HMS is a comprehensive web application designed to streamline hotel operations and enhance user experience. This system provides a robust platform for users to manage bookings, connect with hoteliers, handle payments, and oversee various aspects of hotel management efficiently. Built using Django, Homifice leverages modern web technologies to offer a seamless and intuitive interface for both hotel administrators and guests.
+As a solo developer, inspired by the challenge of manual operations & liitations of our home-turned-mini-guest-house, I envisioned and built a hotel management app. HMS is a comprehensive web application designed to streamline hotel operations and enhance user experience. This system provides a robust platform for users to manage bookings, connect with hoteliers, handle payments, and oversee various aspects of hotel management efficiently. Built using Django, leverages modern web technologies to offer a seamless and intuitive interface for both hotel administrators and guests.
 
 ## Features
 
@@ -29,7 +29,7 @@ As a solo developer, inspired by the challenge of manual operations & liitations
 
 ## Technologies Used
 - **Django:** Core framework for developing the backend and handling the server-side logic.
-- **SQLite:** Database used for storing all application data securely.
+- **Mysql:** Database used for storing all application data securely.
 - **HTML5, CSS3, JavaScript:** Frontend technologies used to create a responsive and user-friendly interface.
 - **Ajax and jQuery:** For asynchronous requests and dynamic updates without reloading the page.
 - **Bootstrap:** Ensures the application is mobile-friendly and visually appealing.
@@ -37,22 +37,17 @@ As a solo developer, inspired by the challenge of manual operations & liitations
 - **Sweet Alert:** Provides attractive and customizable alerts and pop-ups for user notifications.
 - **CKEditor 5:** Adds rich text editing capabilities for better content management.
 - **Paypal & Paystack:** Payment gateway integration for secure and reliable transaction processing.
-- **Railway:** Used for hosting the application.
 
-## Deployment
-The current Homifice Hotel Management System v1.0 is deployed on Railway for reliable and scalable cloud hosting.
-Landing Page: [https://tinyurl.com/homifice](https://tinyurl.com/homifice)
-Link Here: [https://homifice.railway.app](homifice.railway.app)
 
 ## Future Enhancements
 While the current focus is on delivering a Minimum Viable Product (MVP) with essential features, future updates may include:
 - **Reviews and Ratings:** Guests will be able to share their feedback and help the hotels improve!
 - **Notifications:** I will implement a realtime notification system to keep users informed about their bookings and updates.
 - **Bookmarks:** Enable users to bookmark their favorite hotels for easy access.
-- **Additional Payment Gateways:** I will integrate other payment options like Stripe.
+- **Additional Payment Gateways:** I will integrate other payment options.
 - **Email Features:**  I will automate email notifications for various actions such as booking confirmation, reminders, and updates.
 
-The Homifice Hotel Management System aims to provide an all-in-one solution for hotel management and guest services, ensuring a smooth and satisfying experience for all users.
+The Hotel Management System aims to provide an all-in-one solution for hotel management and guest services, ensuring a smooth and satisfying experience for all users.
 
 ## Source Control
 - **GitHub:** The project uses GitHub for version control and collaboration.
@@ -65,15 +60,15 @@ Sure, here's a section on how to run the project:
 ### Prerequisites
 - Python 3.x
 - Django
-- SQLite (bundled with Django)
+- Mysql
 - Git
 
 ### Installation Steps
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/youruOK-Emmanuel/homifice.git
-   cd hms
+   git clone https://github.com/RumelNHORS/Hotel_Management.git
+   cd Hotel_Management
    ```
 
 2. **Create a virtual environment:**
@@ -120,14 +115,12 @@ For a production environment, you'll need to set up a proper web server (like Am
 
 
 ## Auhtor
-- **Olawuni Emmanuel Kayode:** Software Engineer and Project Lead.
+- **MD. Rumel Islam:** Software Engineer and Project Lead.
 
 ## 🤝 Contributing
-Together, these features and technologies make the Homifice Hotel Management System a powerful and user-friendly solution for hotel management and guest services. Explore the project on GitHub and contribute to its development to enhance its functionality and usability.
+Together, these features and technologies make the Hotel Management System a powerful and user-friendly solution for hotel management and guest services. Explore the project on GitHub and contribute to its development to enhance its functionality and usability.
 
 I am open for collaborations and contributions. If you have any suggestions or improvements, please feel free to connect with me and submit a pull request or open an issue. Your feedback is highly appreciated!
 
 ## 📧 Contact
-For any questions or inquiries, please contact me at [olawuniemmanuelk@gmail.com](mailto:olawuniemmanuelk@gmail.com)
-
-Buy Me A Cofee: [https://www.buymeacoffee.com/okemmanuel](https://www.buymeacoffee.com/okemmanuel)
+For any questions or inquiries, please contact me at [rumelnhors52@gmail.com]
